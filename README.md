@@ -9,7 +9,7 @@
   <a href="#tecnologias-usadas">Tecnologias usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#habilidades-desenvolvidas">Habilidades desenvolvidas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://devrafaelgsilva.github.io/project-lessons-learned/">Visite o site</a>
+  <a href="https://devrafaelgsilva.github.io/project-lessons-learned/" target="_blank">Visite o site</a>
 </p>
 
 ## Linguagens usadas:
@@ -64,14 +64,14 @@ $ git clone git@github.com:devrafaelgsilva/project-lessons-learned.git
   <br/><br/>
   
   <a href="https://devrafaelgsilva.github.io/">
-    <img alt="portfolio" height="30px" src="https://i.imgur.com/dWgrGI3.jpg" />
+    <img alt="portfolio" height="30px" target="_blank" src="https://i.imgur.com/dWgrGI3.jpg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/devrafaelgsilva/">
-    <img alt="linkedIn" height="30px" src="https://i.imgur.com/1DnqSeY.png" />
+    <img alt="linkedIn" height="30px" target="_blank" src="https://i.imgur.com/1DnqSeY.png" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rafaell.gomes101@gmail.com?subject=website contact">
-    <img alt="email" height="30px" src="https://i.imgur.com/dY57o6v.png" />
+    <img alt="email" height="30px" target="_blank" src="https://i.imgur.com/dY57o6v.png" />
   </a>
 </p>
