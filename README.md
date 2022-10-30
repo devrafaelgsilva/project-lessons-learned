@@ -55,6 +55,8 @@ Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com
 ```bash
 # Clone o repositório
 $ git clone git@github.com:devrafaelgsilva/project-lessons-learned.git
+# Instale as dependências:
+$ npm install
 ```
 
 <br/><br/>
