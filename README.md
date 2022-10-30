@@ -1,65 +1,77 @@
 <h4 align="center">
-  <img width="180px" alt="starwars planets search logo" src="https://imgur.com/7QmCRSL" />
+  <img width="500px" alt="licoes-aprendidas-logo" src="https://i.imgur.com/SACgy6v.jpg" />
   <br /><br />
-  Um site sobre minhas lições aprendidas
+  <br />Um site sobre minhas lições aprendidas<br />
 </h4>
 
-<hr />
-
 <p align="center">
-  <a href="https://vini-starwars-planets-search.vercel.app/">
-      <img alt="website mockup" src="https://i.imgur.com/vfRsplK.png" />    
-  </a>
+  <a href="#linguagens-usadas">Linguagens usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-usadas">Tecnologias usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#habilidades-desenvolvidas">Habilidades desenvolvidas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://devrafaelgsilva.github.io/project-lessons-learned/">Visite o site</a>
 </p>
 
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://vini-starwars-planets-search.vercel.app/">Visite o app</a>
-</p>
+## Linguagens usadas:
 
-## :rocket: Tecnologias
+Este projeto foi desenvolvido usando as seguintes linguagens:
 
-Esse projeto foi desenvolvido usando as seguintes tecnologias:
+-  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
--  [React.js](https://reactjs.org/)
--  [ContextAPI](https://reactjs.org/docs/context.html)
--  [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
--  [TailwindCSS](https://tailwindcss.com/)
--  [Figma](https://figma.com/)
--  [VS Code](https://code.visualstudio.com/)
+## Tecnologias usadas:
 
-## :information_source: Como usar
+Este projeto foi desenvolvido usando as seguintes tecnologias:
 
-Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com), [VS Code](https://code.visualstudio.com/), [Node.js](https://nodejs.org/) and [NPM](https://www.npmjs.com/) . Da linha de comando:
+-  [Todoist (para organizar o passo a passo)](https://todoist.com/)
+-  [Git](https://git-scm.com/)
+-  [VSCode](https://code.visualstudio.com/)
+-  [GitHub (para hospedar o site)](https://pages.github.com/)
+
+## Habilidades desenvolvidas:
+
+No projeto, pondo em prática meus conhecimentos adquiridos, fui capaz de:
+
+- Adicionar uma cor de fundo específica para a página
+- Adicionar uma barra superior com um título
+- Adicionar uma foto à página
+- Adicionar uma lista numerada à página
+- Adicionar uma lista não numerada à página
+- Adicionar um rodapé para página com uma tag html padronizada "footer"
+- Adicionar um link externo que direcione a pessoa usuária para uma nova aba no navegador
+- Adicionar um artigo usando a tag html padronizada "article"
+- Adicionar uma tag html  padronizada "aside"
+- Adicionar uma tag html padronizado "header"
+- Passar no teste de semântica da página usando o site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/)
+- Adicionar uma tabela à página
+- Utilizar o Box model 
+- Alterar atributos relacionados às fontes, alterando o tamanho, a cor, o espaçamento entre as linhas e a "font-family"
+- Posicionar as tags "articles" e "aside" uma ao lado da outra
+
+## Como usar
+
+Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com), [VS Code](https://code.visualstudio.com/):
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/vinibortoletto/starwars-planets-search.git
-
-# Instale as dependências
-$ npm install
-
-# Rode o app
-$ npm start
-
+$ git clone git@github.com:devrafaelgsilva/project-lessons-learned.git
 ```
 
 <br/><br/>
 
 <p align="center">
-  Criado e desenvolvido por <b>Vinicius Bortoletto</b>
+  Criado e desenvolvido por <b>Rafael Silva</b>
   <br/><br/>
   
-  <a href="https://vinibortoletto.vercel.app/">
-    <img alt="portfolio" height="30px" src="https://i.imgur.com/7lbNPnj.png" />
+  <a href="https://devrafaelgsilva.github.io/">
+    <img alt="portfolio" height="30px" src="https://i.imgur.com/dWgrGI3.jpg" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vinicius-bortoletto/">
-    <img alt="linkedIn" height="30px" src="https://i.imgur.com/TQRXxhT.png" />
+  <a href="https://www.linkedin.com/in/devrafaelgsilva/">
+    <img alt="linkedIn" height="30px" src="https://i.imgur.com/1DnqSeY.png" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ovinibortoletto@gmail.com?subject=website contact">
-    <img alt="email" height="30px" src="https://i.imgur.com/wu7e3PJ.png" />
+  <a href="mailto:rafaell.gomes101@gmail.com?subject=website contact">
+    <img alt="email" height="30px" src="https://i.imgur.com/dY57o6v.png" />
   </a>
 </p>
