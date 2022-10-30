@@ -1,0 +1,97 @@
+header {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    top: 0;
+    background-color: green;
+}
+
+#titulo {
+    color: white;
+}
+
+#redes_sociais {
+    height: 100px;
+    width: auto;
+    margin: 100px;
+    padding: 50px;
+    border: 100px;
+}
+
+#sobre, #experiencia {
+    text-align: justify;
+}
+
+.polaroid {
+    width: 35%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin: auto;
+}
+
+.container {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.lado-esquerdo {
+    float: left;
+    width: 45%;
+    display: inline-block;
+    height: 400px;
+    padding: 12px;
+}
+
+.lado-direito {
+    float: right;
+    width: 45%;
+    display: inline-block;
+    height: 400px;
+    padding: 12px;
+}
+
+.heading-style {
+    color: green;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.list-style {
+    font-weight: bold;
+    line-height: 20px;
+}
+
+ol, ul {
+    text-decoration: underline;
+}
+
+body {
+    background-color: rgb(253, 251, 251);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+li:hover {
+    color: green;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: gray; 
+}
+
+footer {
+    clear: both;
+}
+
+#rodape {
+  border-top: 1px solid black;   
+}
+
+.nav-links tr {
+    display: inline;
+}
